@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+finance-270402-31826ed179a3.json
+finance/__pycache__/
+
+*.swp
